@@ -1,1 +1,3 @@
 # Introduction-to-Machine-Learning
+I don't quite remember all the decisions I made back then, and It might be a bit difficult to run the network because the libraries became out of sync by now. The fisrt few blocks of code should resolve that. </n>
+I also used a tool called WandAI, which enables easy oversite on the training results.
