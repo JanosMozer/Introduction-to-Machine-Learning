@@ -3,3 +3,20 @@ I don't quite remember all the decisions I made back then, and It might be a bit
 I also used a tool called WandAI, which enables easy oversite on the training results.
 
 Next to the python notebook, I also uploaded a screenshot of the model's performance.
+
+Dependencies:
+
+os  # System operations  
+keras_cv  # Pre-built ML models for computer vision  
+keras  # API for deep learning model development  
+tensorflow  # Core ML framework for deep learning  
+cv2  # Image processing (OpenCV)  
+pandas  # Data processing and analysis  
+numpy  # Numerical computations and array manipulations  
+glob  # File path pattern matching  
+tqdm  # Progress bar for loops  
+joblib  # Model saving and loading during training  
+matplotlib  # Data visualization  
+kaggle_secrets  # Manages API keys and secrets in Kaggle  
+wandb  # Weights & Biases for experiment tracking  
+
