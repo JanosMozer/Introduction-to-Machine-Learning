@@ -4,7 +4,8 @@ I don't quite remember all the decisions I made back then, and It might be a bit
 I also used a tool called WandAI, which enables easy oversite on the training results.
 
 Next to the python notebook, I also uploaded a screenshot of the model's performance.
-
+## Competition:
+https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification/overview
 ## Dependencies:
 
 os  # System operations  
